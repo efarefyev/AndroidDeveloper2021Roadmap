@@ -1,5 +1,5 @@
-# Android Developer 2021 Roadmap (https://infinite.education/view/Android_Developer_2021)
-Аndroid Developer 2021 Roadmap
+# Android Developer 2021 Roadmap 
+Аndroid Developer 2021 Roadmap (https://infinite.education/view/Android_Developer_2021)
 
 ## [Skills tree Android Developer 2021](https://infinite.education/view/Android_Developer_2021)
 
